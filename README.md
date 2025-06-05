@@ -1,1 +1,1 @@
-# inline-hoverbutton
+# internal-hoverbutton
